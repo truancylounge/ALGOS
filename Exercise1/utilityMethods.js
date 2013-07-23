@@ -23,3 +23,15 @@ exports.swap = function(arr, index1, index2) {
 	arr[index1] = arr[index2];
 	arr[index2] = temp
 };
+
+exports.getMaxIndex = function(arr) {
+	var maxIndex = 0;
+
+	for(var i = 1; i < arr.length; i++) {
+		if(arr[i] > arr[maxIndex])
+			maxIndex = i;
+	}
+
+	return maxIndex;
+
+};
