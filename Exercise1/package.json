@@ -1,0 +1,10 @@
+{
+  "name": "algorithms",
+  "version" : "1.0.0",
+  "description": "A package used to test out various algorithms",
+  "author": "Lalith Mannur <truancylounge@gmail.com>",
+  "dependencies": {
+    "winston": "0.7.x",
+    "mocha": "1.12.x"
+  }  
+}

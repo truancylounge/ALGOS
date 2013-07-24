@@ -1,0 +1,15 @@
+2013-07-24T02:41:25.474Z - info: Running Bubble sort on Array : 65,76,27,9,96,56,38,63,99,36
+2013-07-24T02:41:25.475Z - info: Running Selection sort on Array : 75,32,77,73,28,7,90,58,4,14
+2013-07-24T02:41:25.475Z - info: Running Insertion sort on Array : 68,54,80,82,27,43,88,30,45,56
+2013-07-24T02:42:17.882Z - info: Running Bubble sort on Array : 76,29,78,35,15,6,7,42,55,90
+2013-07-24T02:42:17.883Z - info: Sorted Array : 6,7,15,29,35,42,55,76,78,90
+2013-07-24T02:42:17.883Z - info: Running Selection sort on Array : 40,12,95,33,10,58,65,98,63,73
+2013-07-24T02:42:17.883Z - info: Sorted Array : 10,12,33,40,58,63,65,73,95,98
+2013-07-24T02:42:17.883Z - info: Running Insertion sort on Array : 84,75,62,19,91,54,35,1,79,55
+2013-07-24T02:42:17.883Z - info: Sorted Array : 1,19,35,54,55,62,75,79,84,91
+2013-07-24T02:44:32.612Z - info: Running Bubble sort on Array : 
+2013-07-24T02:44:32.613Z - info: Sorted Array : 
+2013-07-24T02:44:32.614Z - info: Running Bubble sort on Array : 2
+2013-07-24T02:44:32.614Z - info: Sorted Array : 2
+2013-07-24T02:44:32.614Z - info: Running Bubble sort on Array : 4,2,1,8,20,10
+2013-07-24T02:44:32.615Z - info: Sorted Array : 1,2,4,8,10,20

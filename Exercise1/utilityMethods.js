@@ -1,4 +1,5 @@
 exports.randomArrayGenerator = function(size) {
+	
 	var arr = []
 
 	while(arr.length < size){
@@ -33,5 +34,4 @@ exports.getMaxIndex = function(arr) {
 	}
 
 	return maxIndex;
-
 };
